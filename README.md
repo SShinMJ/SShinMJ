@@ -29,6 +29,6 @@
 
 ###  :envelope:Contact
 
-<a href="mailto:winny0678@naver.com" target="EA4335"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
+<a href="mailto:winny0678@naver.com" target="EA4335"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" ></a>
 
 </div>
