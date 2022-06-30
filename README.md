@@ -11,8 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshinmj&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<hr>
+<br>
 
 ###  :books:Skills
 
@@ -21,13 +20,12 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=skyblue" />
-
+<br><br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white" />
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
 
-
-<hr>
+<br><br>
 
 ###  :envelope:Contact
 
