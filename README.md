@@ -1,7 +1,8 @@
 <div align=center>
-
-### Have a Good Day😄 
-✨My name is MyungJi Shin✨
+  
+### ✨
+### Hello, I'm Shin MJ
+Pleased to meet you😄 
 
 <hr>
 
