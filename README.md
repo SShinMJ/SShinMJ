@@ -17,7 +17,7 @@
 ⚡Used as the main⚡
 
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Photon-6D4AFF?style=flat-square&logo=Photon&logoColor=white" />
+<img src="https://img.shields.io/badge/C Sharp-280068?style=flat-square&logo=Csharp&logoColor=white" />
 <br><br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white" />
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
@@ -31,6 +31,7 @@
 <br><br>
 🤔Used at least once
 
+<img src="https://img.shields.io/badge/Photon-6D4AFF?style=flat-square&logo=Photon&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apachetomcat&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
